@@ -22,4 +22,6 @@ Estudante de **Engenharia de Software** e entusiasta de tecnologia. Sempre em bu
 
 ### 📫 Como me encontrar
 
-![www.linkedin.com/in/pedro-henrique-da-silva-760960205](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+
+
