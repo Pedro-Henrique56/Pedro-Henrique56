@@ -9,13 +9,13 @@ Estudante de **Engenharia de Software** e entusiasta de tecnologia. Sempre em bu
 * **Linguagens:** <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-2284965.png?f=webp" width="19" alt="JavaScript">
 
 * **Frontend:**
-  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="21" alt="HTML5">
-  <img src="https://cdn-icons-png.flaticon.com/256/16183/16183567.png" width="23" alt="CSS3">
-  <img src="https://camo.githubusercontent.com/d9ee4b6eafe959768a827047f4d07cd98adacd3b012ca1f20d177233de1b6859/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f72656163742d6e61746976652e706e67" width="20" alt="react">
+  <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/960px-HTML5_logo_and_wordmark.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" width="25" alt="HTML5">
+  <img src="https://cdn-icons-png.flaticon.com/256/16183/16183567.png" width="25" alt="CSS3">
+  <img src="https://camo.githubusercontent.com/d9ee4b6eafe959768a827047f4d07cd98adacd3b012ca1f20d177233de1b6859/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f72656163742d6e61746976652e706e67" width="23" alt="react">
   
-* **Ferramentas:** Git, GitHub, Figma, GIMP
-
-
+* **Ferramentas:**
+   <img src="https://pachecoandre.com.br/assets/imgs/posts/git.png" width="21" alt="Git"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="23" alt="Github"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20" alt="Figma">
+ 
 ---
 
 ### 📊 Estatísticas do GitHub
