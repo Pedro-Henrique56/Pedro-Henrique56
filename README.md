@@ -3,9 +3,6 @@
 <p>Seja muito bem-vindo ao meu GitHub! Este espaço é dedicado a compartilhar meus projetos, estudos e a minha evolução contínua na área de desenvolvimento de software.
 Meu objetivo principal é aplicar e expandir meus conhecimentos no mercado de trabalho de tecnologia, criando soluções eficientes e impactantes. Sou movido por aprender novas tecnologias, encarar desafios e aprimorar minhas habilidades constantemente.</p>
 
-<p>Me acompanhe no Linkedin também ⬇️</p>
- <a href="www.linkedin.com/in/pedro-henrique-da-silva-760960205/"><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="100" alt="linkdin"></a>
-
 ---
 
 ### 💻 Tecnologias e Ferramentas
