@@ -12,7 +12,7 @@ Meu objetivo principal é aplicar e expandir meus conhecimentos no mercado de tr
 ---
 ### 📫 Como me encontrar
 
-<a href="https://www.linkedin.com/in/pedro-henrique-da-silva-760960205/" target="_blank"><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="100" alt="linkdin"></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-da-silva-760960205/" target="_blank" rel="noopener noreferrer"><img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="100" alt="LinkedIn"></a>
 ---
 ### 📊 Estatísticas do GitHub
 
